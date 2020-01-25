@@ -4,7 +4,7 @@ import unittest
 
 
 if __name__ == '__main__':
-     unittest.main()
+     #unittest.main()
      print("faruk test completed")
     #response = login("user", "password")
     #print(response)
