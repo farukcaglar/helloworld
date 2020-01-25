@@ -19,3 +19,4 @@ jobs:
     - name: Unit tests
       run: |
         ls
+        python main.py
