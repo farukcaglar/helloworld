@@ -18,5 +18,4 @@ jobs:
         python -m pip install --upgrade pip
     - name: Test with pytest
       run: |
-        cd /opt/helloworld
         python unittests.py
