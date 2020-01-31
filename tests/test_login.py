@@ -3,7 +3,7 @@ import unittest
 
 class TestLogin(unittest.TestCase):
     def test_empty_login(self):
-        self.assertEqual(login(" ", " "), "Missing username or password!")
+        self.assertEqual(login(" ", " "), "Mi   ssing username or password!")
 
     def test_incorrect_login(self):
         self.assertEqual(login("user1","password1"), "Invalid username or password!")
