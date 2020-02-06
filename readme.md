@@ -6,3 +6,5 @@
 
 ![Coverage](https://img.shields.io/coveralls/github.com/farukcaglar/helloworld/master)
 
+![Last Commit](https://img.shields.io/github/last-commit/farukcaglar/master)
+
