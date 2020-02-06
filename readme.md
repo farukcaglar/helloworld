@@ -4,9 +4,6 @@
 
 ![Release](https://github.com/farukcaglar/helloworld/workflows/Simple%20Tool/badge.svg?branch=master&event=release)
 
-![Coverage](https://img.shields.io/coveralls/github.com/farukcaglar/helloworld/master)
+![Coverage](https://img.shields.io/github/languages/code-size/farukcaglar/helloworld)
 
-![Last Commit](https://img.shields.io/github/last-commit/farukcaglar/master)
-
-![Push](https://github.com/farukcaglar/helloworld/workflows/Simple%20Tool/badge.svg?branch=master&event=push)
 
